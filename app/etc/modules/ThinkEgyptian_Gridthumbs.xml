@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ThinkEgyptian_Gridthumbs>
+            <active>true</active>
+            <codePool>local</codePool>
+        </ThinkEgyptian_Gridthumbs>
+    </modules>
+</config>

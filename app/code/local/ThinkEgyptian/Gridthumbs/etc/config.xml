@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ThinkEgyptian_Gridthumbs>
+            <version>0.1.0</version>
+        </ThinkEgyptian_Gridthumbs>
+    </modules>
+    <global>
+        <blocks>
+            <adminhtml>
+                <rewrite>
+                    <catalog_product_grid>ThinkEgyptian_Gridthumbs_Adminhtml_Block_Catalog_Product_Grid</catalog_product_grid>
+                </rewrite>
+            </adminhtml>
+        </blocks>
+    </global>
+</config>
